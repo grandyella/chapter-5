@@ -1,0 +1,16 @@
+{
+    "name": "binar-chapter5-challenge",
+    "version": "1.0.0",
+    "description": "Challenge binar bootcamp for chapter 5",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ahmad Zulfikar T",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.2",
+        "nodemon": "^2.0.15"
+    }
+}

@@ -1,0 +1,89 @@
+/* All */
+
+* {
+    background-color: #ae876b;
+    max-width: 100%;
+    font-family: sans-serif;
+}
+
+
+/* Header */
+
+.header h2 {
+    font-size: 40px;
+    font-weight: 500;
+    color: #864313;
+}
+
+.header a {
+    text-decoration: none;
+    color: #864313;
+}
+
+.header img {
+    transform: scale(0.8);
+}
+
+
+/* Main */
+
+#player1 div {
+    display: inline-block;
+    width: 12rem;
+    border-radius: 20px;
+}
+
+#player1 input {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    width: 80%;
+    transform: scale(0.8);
+}
+
+#versus {
+    text-align: center;
+}
+
+.versus {
+    color: darkred;
+    font-size: 80px;
+    font-weight: 1000;
+    margin-top: 20%;
+}
+
+.status {
+    width: 16rem;
+    height: 9rem;
+    background-color: darkgreen;
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 10% auto;
+    border-radius: 8px;
+    transform: rotate(-25deg);
+}
+
+.inputPlayer input {
+    background-color: inherit;
+}
+
+.Computerr img {
+    background-color: inherit;
+}
+
+#computer {
+    text-align: center;
+}
+
+#computer div {
+    display: inline-block;
+    width: 12rem;
+    border-radius: 20px;
+}
+
+#computer img {
+    width: 80%;
+    transform: scale(0.8);
+}
